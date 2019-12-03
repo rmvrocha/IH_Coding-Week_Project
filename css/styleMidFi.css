@@ -11,6 +11,7 @@ a{
 nav{
     height: 80px;
 }
+
 /* NAV CSS*/
 #logo-name{
     /* width: 50%; */
@@ -46,7 +47,12 @@ header{
     /* width:500px; */
     width: 100%;
 }
-
+.bg-image{
+    background-image: url(../images/header-image.jpeg);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
 
 
 .left_block{   
