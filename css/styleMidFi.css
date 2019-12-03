@@ -1,0 +1,43 @@
+.border{
+    border: 5px solid green;
+}
+.bg{
+    background-color: chocolate;
+}
+a{
+    text-decoration: none;
+}
+
+/* NAV CSS*/
+
+.top-menu a{
+    text-decoration: underline;
+    font-size: 20px;
+}
+
+.top-menu li{
+    display: inline-block;
+    margin:0px 10px;
+    color:#32c3ff;
+    text-decoration: none;
+}
+
+
+
+/* HEADER CSS */
+header{
+    margin:25px 0px 25px 0px;
+    height: 600px;
+    /* height: 100vh; */
+    /* width:500px; */
+    width: 100%;
+}
+
+
+
+.left_block{   
+    width: 50%;
+
+    /* width:250px; */
+    border: 2px solid red;
+}    
