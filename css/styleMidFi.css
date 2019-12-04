@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 body{
     font-size:10px;
 }
@@ -83,3 +84,21 @@ header{
         background-color: blue;
     }
 }
+=======
+/* -------- FONT FACE Funtion ------------*/
+@font-face{
+    font-family:brandon-medium;
+    src:url(font/brandon-medium.woff2) format("woff2"),
+    url(font/brandon-medium.woff) format("woff");
+    font-weight:400;
+    font-style:normal;
+    font-display:swap}
+
+
+
+
+    /* -------- IMPORT ------------*/
+    @import url('https://fonts.googleapis.com/css?family=Lato:700|Source+Serif+Pro&display=swap');
+
+
+>>>>>>> Stashed changes
