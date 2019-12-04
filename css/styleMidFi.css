@@ -1,4 +1,4 @@
-<<<<<<< Updated upstream
+
 body{
     font-size:10px;
 }
@@ -84,7 +84,7 @@ header{
         background-color: blue;
     }
 }
-=======
+
 /* -------- FONT FACE Funtion ------------*/
 @font-face{
     font-family:brandon-medium;
@@ -101,4 +101,3 @@ header{
     @import url('https://fonts.googleapis.com/css?family=Lato:700|Source+Serif+Pro&display=swap');
 
 
->>>>>>> Stashed changes
